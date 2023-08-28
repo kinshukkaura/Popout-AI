@@ -1,5 +1,5 @@
 ﻿## Artificial Intelligence Project (2022) - Reinforcement Learning agent for Popout4.
- PopOut is played on a vertical two-dimensional board. The standard board size has
+ PopOut is a variant of the game Connect4. It is played on a vertical two-dimensional board. The standard board size has
 seven columns and each column consists of six cells. Two players take turns and at each
 turn, the player to move can make one of two types of moves: drop a new disk, or pop
 an existing bottom disk of his own color. When dropping a new disk, the disk falls
